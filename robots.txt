@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://test.expogency.com/sitemap.xml
